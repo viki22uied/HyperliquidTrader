@@ -1,0 +1,4 @@
+archetype,total_trades,avg_trade_size,win_rate,total_pnl,long_ratio,avg_trades_per_day
+Archetype A,18432.6,11889.75,1.03,1272055.87,0.48,318.8
+Archetype B,1236.57,3212.3,7.38,194919.31,0.32,34.99
+Archetype C,5519.95,5513.28,1.12,126488.62,0.51,88.19

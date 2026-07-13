@@ -1,0 +1,10 @@
+{
+  "sentiment_rows": 2644,
+  "trades_rows": 211224,
+  "merged_rows": 211218,
+  "unique_accounts": 32,
+  "unique_coins": 246,
+  "date_range_start": "2023-05-01",
+  "date_range_end": "2025-05-01",
+  "trading_days": 479
+}

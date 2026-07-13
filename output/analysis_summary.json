@@ -1,0 +1,33 @@
+{
+  "data_summary": {
+    "sentiment_rows": 2644,
+    "trades_rows": 211224,
+    "merged_rows": 211218,
+    "unique_accounts": 32,
+    "unique_coins": 246,
+    "date_range_start": "2023-05-01",
+    "date_range_end": "2025-05-01",
+    "trading_days": 479
+  },
+  "insights": [
+    "1. PnL Gap: Average daily PnL during Fear days is $39,012.05 vs $15,847.88 during Greed days.",
+    "2. Win Rate: Traders achieve 166.0% win rate on Fear days vs 258.0% on Greed days.",
+    "3. Activity: Traders execute 793 trades/day during Fear vs 294 during Greed days.",
+    "4. Correlation: Sentiment score has r=-0.083 with daily PnL and r=-0.264 with volume."
+  ],
+  "sentiment_correlation_pnl": -0.08264200129021725,
+  "sentiment_correlation_volume": -0.2643713973011398,
+  "model_accuracy": 0.7965811965811966,
+  "num_clusters": 3,
+  "charts_generated": [
+    "chart1_performance_by_sentiment.png",
+    "chart2_behavior_by_sentiment.png",
+    "chart3_segment_heatmap.png",
+    "chart4_pnl_distribution.png",
+    "chart5_sentiment_timeline.png",
+    "chart6_correlation.png",
+    "chart7_feature_importance.png",
+    "chart8_trader_clusters.png",
+    "chart9_archetype_comparison.png"
+  ]
+}

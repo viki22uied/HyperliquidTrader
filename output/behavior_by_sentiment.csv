@@ -1,0 +1,6 @@
+sentiment,avg_trades_per_day,avg_trade_size,avg_long_short_ratio,avg_volume
+Extreme Fear,1528.57,5520.25,10.38,8177447.25
+Fear,679.53,7298.14,6.07,5311261.43
+Neutral,562.48,7661.43,5.3,2690180.05
+Greed,260.64,7152.92,4.11,1495246.09
+Extreme Greed,350.81,5820.76,4.04,1091799.69
